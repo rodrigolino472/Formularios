@@ -20,10 +20,17 @@ h1, h2{
   text-align: center;
   line-height: 1.2;
 }
+p{
+  text-align: center;
+  color: white;
+  width: 50%;
+  font-size: 1.2rem;
+}
 .form{
   width: 100%;
   max-width: 32rem;
   font-size: 1.125rem;
+  margin-top: 1rem;
 }
 .form label,
 .form input,
